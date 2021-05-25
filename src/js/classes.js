@@ -25,3 +25,5 @@ class Hero{
     }
 }
 
+export{Hero, Boss};
+
